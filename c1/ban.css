@@ -1,0 +1,22 @@
+@charset "utf-8";
+.main_vs {
+    clear: both;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.ban_box {
+    width: 400%;
+}
+
+.ban_box li {
+    width: 25%;
+    float: left;
+}
+
+.ban_box li a{
+    display:block;
+    margin:0 auto;
+    width:1100px;
+    height:400px;
+}
